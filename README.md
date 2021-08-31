@@ -4,8 +4,6 @@ Dog breed classificaion
 [//]: # (Image References)
 
 [image1]: ./images/blog_images/pup01.png "Sample Output"
-[image2]: ./images/vgg16_model.png "VGG-16 Model Layers"
-[image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
 ## Table of Contents
 
@@ -17,6 +15,10 @@ Dog breed classificaion
 ## Project Overview <a name="overview"></a>
 
 The aim of this project is to develop an application that predicts an image of a dog, your algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
+
+I have also written a Medium Blog that details the steps and process that I took to complete this project.  
+
+["Soooo many Dogs to Classify!"](https://njackson-gis.medium.com/soooo-many-dogs-to-classify-22027bd8a426)
 
 ![Sample Output][image1]
 
