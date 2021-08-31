@@ -18,7 +18,7 @@ The aim of this project is to develop an application that predicts an image of a
 
 I have also written a Medium Blog that details the steps and process that I took to complete this project.  
 
-["Soooo many Dogs to Classify!"](https://njackson-gis.medium.com/soooo-many-dogs-to-classify-22027bd8a426)
+["Soooo many Dogs to Classify!"](https://njackson-gis.medium.com/dog-breed-classification-model-dsnd-capstone-project-fd6098d692f5)
 
 ![Sample Output][image1]
 
